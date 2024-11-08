@@ -2,7 +2,13 @@ import matplotlib.pyplot as m
 import numpy as n
 import pandas as p
 
+# important note:
+# for more information on how was the model build and trained...you can look into
+# the Model_training jupiter notebook
+#there we trained the model...and had obtained these weights value
 
+
+#the datset was taken from UCL 
 w1=-0.05076649293721135
 w2=0.03808140719163982
 w3=0.17279908014593054
